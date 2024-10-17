@@ -1,6 +1,6 @@
 ## Eae 🐢👍
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](585608417394294804)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](vynkriavus)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
