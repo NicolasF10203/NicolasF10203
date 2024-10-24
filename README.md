@@ -22,4 +22,5 @@
 <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 
+## Estatísticas
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasF10203&show_icons=true&theme=tokyonight)
